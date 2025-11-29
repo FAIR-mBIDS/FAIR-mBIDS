@@ -1,0 +1,5 @@
+filename	GUId-Key	GSId	GDId	acq_time	operator	randstr
+anat/sub-03_T1w.nii.gz	GUId_0e5aae2a09553b4c5d6e78a9	GSId_3c4d5e6f7g8	GDId_ds005795	1970-01-01T00:00:00.000000	n/a
+anat/sub-03_PDw.nii.gz	GUId_5199b8df6c753b4c5d6e78a9	GSId_3c4d5e6f7g8	GDId_ds005795	1970-01-01T00:00:00.000000	n/a
+func/sub-03_task-learning_bold.nii.gz	GUId_c1edd6b4b7734f5ab7c8d9e0	GSId_3c4d5e6f7g8	GDId_ds005795	1970-01-01T00:00:00.000000	n/a
+func/sub-03_task-rest_bold.nii.gz	GUId_494d48d511343b4cd6e7f8a9	GSId_3c4d5e6f7g8	GDId_ds005795	1970-01-01T00:00:00.000000	n/a

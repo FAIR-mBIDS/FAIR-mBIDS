@@ -1,0 +1,5 @@
+filename	GUId-Key	GSId	GDId	acq_time	operator	randstr
+anat/sub-02_T1w.nii.gz	GUId_1bee4b16d1da3c4d5e6f7a89	GSId_2b3c4d5e6f7	GDId_ds005795	1970-01-01T00:00:00.000000	CNI-HBI	84ec0e8b
+anat/sub-02_PDw.nii.gz	GUId_828a812d2e79a1b2c3d45f6g7	GSId_2b3c4d5e6f7	GDId_ds005795	1970-01-01T00:00:00.000000	CNI-HBI	d9035bcd
+func/sub-02_task-learning_bold.nii.gz	GUId_473aba2395354f5a6b7c8de0	GSId_2b3c4d5e6f7	GDId_ds005795	1970-01-01T00:00:00.000000	CNI-HBI	ab2a1ab2
+func/sub-02_task-rest_bold.nii.gz	GUId_315078a1fbea1c2d3e4f56b7	GSId_2b3c4d5e6f7	GDId_ds005795	1970-01-01T00:00:00.000000	CNI-HBI	a656a1fe
