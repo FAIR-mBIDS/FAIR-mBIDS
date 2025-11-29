@@ -1,0 +1,14 @@
+{
+  "TaskName": "resting",
+  "SamplingFrequency": 250,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": {
+    "FreqRange": {
+      "min": 0.5,
+      "maximum": 200
+    }
+  },
+  "EOGChannelCount": 0,
+  "EEGChannelCount": 128,
+  "EEGReference": "IEF"
+}
