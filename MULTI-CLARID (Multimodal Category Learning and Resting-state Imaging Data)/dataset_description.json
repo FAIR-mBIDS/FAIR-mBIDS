@@ -1,0 +1,31 @@
+{
+    "GDId": "GDId_ds005795",
+    "Acknowledgements": " ",
+    "Authors": [
+        "Jörg Stadler",
+        "Torsten Stöter",
+        "Nicole Angenstein",
+        "Andreas Fügner",
+        "Marcel Lommerzheim",
+        "Artur Mathysiak",
+        "Anke Michalsky",
+        "Gabriele Schöps",
+        "Johann van der Meer",
+        "Susann Wolff",
+        "André Brechmann"
+    ],
+    "BIDSVersion": "1.10.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005795.v1.0.0",
+    "Funding": [
+        "German Science Foundation (BR2267/9-1)"
+    ],
+    "HowToAcknowledge": "Data was provided by the human brain imaging group of the Combinatorial NeuroImaging (CNI) core facility at the Leibniz Institute for Neurobiology (LIN) Magdeburg.",
+    "License": "CC0",
+    "Name": "MULTI-CLARID (Multimodal Category Learning and Resting-state Imaging Data)",
+    "ReferencesAndLinks": [
+        "www.lin-magdeburg.de/cni"
+    ],
+    "Ethics Approvals": [
+        "The study was approved by the ethics committee of the University of Magdeburg, Germany"
+    ]
+}
