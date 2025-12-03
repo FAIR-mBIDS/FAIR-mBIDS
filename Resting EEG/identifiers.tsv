@@ -1,0 +1,68 @@
+GUId-Key	GSId	GDId	modality	file_path						
+GUId_a1b2c3d4e5f6g7h8i9j0k1l2	GSId_1a2b3c4d5e6	GDId_006525	anat	sub-001/anat/sub-001_task-rest_acq-defaced_T1w.nii.gz						
+GUId_b2c3d4e5f6g7h8i9j0k1l3m4	GSId_1a2b3c4d5e6	GDId_006525	eeg	sub-001/eeg/sub-001_task-resting_eeg.set						
+GUId_c3d4e5f6g7h8i9j0k1l4m5n6	GSId_1a2b3c4d5e6	GDId_006525	eeg	sub-001/eeg/sub-001_task-resting_events.tsv						
+GUId_d4e5f6g7h8i9j0k1l5m6n7o8	GSId_2b3c4d5e6f7	GDId_006525	anat	sub-002/anat/sub-002_task-rest_acq-defaced_T1w.nii.gz						
+GUId_e5f6g7h8i9j0k1l6m7n8o9p0	GSId_2b3c4d5e6f7	GDId_006525	eeg	sub-002/eeg/sub-002_task-resting_eeg.set						
+GUId_f6g7h8i9j0k1l7m8n9o0p1q2	GSId_2b3c4d5e6f7	GDId_006525	eeg	sub-002/eeg/sub-002_task-rest_events.tsv						
+GUId_a7b8c9d0e1f2g3h4i5j6k7l8	GSId_4c5d6e7f8a9	GDId_006525	anat	sub-004/anat/sub-004_task-rest_acq-defaced_T1w.nii.gz						
+GUId_b8c9d0e1f2g3h4i5j6k7l9m0	GSId_4c5d6e7f8a9	GDId_006525	eeg	sub-004/eeg/sub-004_task-resting_eeg.set						
+GUId_c9d0e1f2g3h4i5j6k7l0m1n2	GSId_4c5d6e7f8a9	GDId_006525	eeg	sub-004/eeg/sub-004_task-rest_events.tsv						
+GUId_d0e1f2g3h4i5j6k7l1m2n3o4	GSId_5d6e7f8a9b0	GDId_006525	anat	sub-005/anat/sub-005_task-rest_acq-defaced_T1w.nii.gz						
+GUId_e1f2g3h4i5j6k7l2m3n4o5p6	GSId_5d6e7f8a9b0	GDId_006525	eeg	sub-005/eeg/sub-005_task-resting_eeg.set						
+GUId_f2g3h4i5j6k7l3m4n5o6p7q8	GSId_5d6e7f8a9b0	GDId_006525	eeg	sub-005/eeg/sub-005_task-rest_events.tsv						
+GUId_a3b4c5d6e7f8g9h0i1j2k3l4	GSId_7f8a9b0c1d2	GDId_006525	anat	sub-007/anat/sub-007_task-rest_acq-defaced_T1w.nii.gz						
+GUId_b4c5d6e7f8g9h0i1j2k3l5m6	GSId_7f8a9b0c1d2	GDId_006525	eeg	sub-007/eeg/sub-007_task-resting_eeg.set						
+GUId_c5d6e7f8g9h0i1j2k3l6m7n8	GSId_7f8a9b0c1d2	GDId_006525	eeg	sub-007/eeg/sub-007_task-rest_events.tsv						
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
